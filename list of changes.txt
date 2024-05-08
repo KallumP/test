@@ -1,0 +1,30 @@
+create folder "project1"
+create file "project1/work1.txt"
+create file "project1/work2.txt"
+add text to each file explaining the creation of the file
+
+add
+commit
+push
+
+add text to the end of work 1 and 2 "more work has been done"
+
+add
+commit 
+push
+
+create folder "project2"
+move file "project1/work2.txt" to "project2/work2.txt"
+
+add
+commit
+push (this should come up as a "rename")
+
+
+add text to the end of work2 to explain the move
+
+add
+commit
+push
+
+check git log
